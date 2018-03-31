@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 53,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 42,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 42,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

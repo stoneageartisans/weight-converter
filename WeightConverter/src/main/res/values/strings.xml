@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Weight Converter</string>
+    <string name="convert">\u21B5</string>
+    
+    <string-array name="units">
+        <item>milligrams</item>
+        <item>centigrams</item>
+        <item>decigrams</item>
+        <item>grams</item>
+        <item>dekagrams</item>
+        <item>ounces</item>
+        <item>hectograms</item>        
+        <item>pounds</item>
+        <item>kilograms</item>
+        <item>tons (US)</item>
+        <item>tons (Metric)</item>
+    </string-array>  
+
+</resources>

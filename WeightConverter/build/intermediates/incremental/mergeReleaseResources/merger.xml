@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res"/><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/build/generated/res/rs/release"/><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res"><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="layout_main" path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/layout/layout_main.xml" qualifiers="" type="layout"/><file path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/main/res/values/strings.xml" qualifiers=""><string name="convert">\u21B5</string><string name="app_name">Weight Converter</string><string-array name="units">
+        <item>milligrams</item>
+        <item>centigrams</item>
+        <item>decigrams</item>
+        <item>grams</item>
+        <item>dekagrams</item>
+        <item>ounces</item>
+        <item>hectograms</item>        
+        <item>pounds</item>
+        <item>kilograms</item>
+        <item>tons (US)</item>
+        <item>tons (Metric)</item>
+    </string-array></file></source><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/build/generated/res/rs/release"/><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/media/daddy/Stuff/projects/android/weight-converter/WeightConverter/src/release/res"/></dataSet><mergedItems/></merger>
